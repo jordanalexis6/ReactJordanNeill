@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Jordan Neill",
+    "description": "I'm a Full Stack Web Developer leveraging a background in psychology & management to build a more intuitive user experience on the web. Known as an innovative problem-solver passionate about developing apps, with a focus on mobile-first design and development. Start scrolling to find out more",
+    "image": "profilepic.jpg",
+    "bio": "I'm an Austin based Full Stack Web Developer leveraging a background in psychology & management to build a more intuitive user experience on the web. Recently earned a certificate in Full Stack Development from the University of Texas at Austin, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. Known as an innovative problem-solver passionate about developing apps, with a focus on mobile-first design and development. With each project, my aim is to best engage my users for an impactful user-experience. I applied aspects of UX and agile development in a recent project where I worked in a team of four to develop a single-page MERN app that helps local business owners track their sales, inventory and attendance at specialty events. Excited to leverage skills in the future as part of a fast-paced, quality-driven team in order to build better experiences on the web.",
+    "contactmessage": "Have a question or an exciting new project? Don't hesitate to contact me below & I will respond within a day! I'm always excited to get involved in new projects & improve old ones too.",
+    "email": "jordan.a.neill@gmail.com",
+    "phone": "512-000-0000",
+    "github": "https://github.com/jordanalexis6/ReactJordanNeill",
+    "project": "https://github.com/jordanalexis6/ReactJordanNeill",
+    "address": {
+      "street": "N Lakeline Blvd",
+      "city": "N Lakeline Blvd",
+      "state": "Texas",
+      "zip": "78717"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "JordanNeillResume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jordan.a.neill/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jordanalexis6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jordanalexis6",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Exceeds at working in a team structure || Excellent problem solving skills || Hard working & goal-oriented || Aspires to learn new things || Excellent time management skills || Effectively multi-tasks || Calm under pressure || Values accountability and initiative",
+    "education": [
+      {
+        "school": "University of Texas at Austin",
+        "degree": "​Full Stack Web Development",
+        "graduated": "2020",
+        "description": "An intensive, 6-month coding boot camp. This boot camp involved 250+ hours of in-class instruction through an extensive curriculum using: JavaScript, HTML5, CSS, jQuery, Responsive Design, Bootstrap, React.js, Node.js, MongoDB, PHP frameworks like Laravel, MySQL, Heroku, Security and Session Storage, and User Authentication."
+      }
+    ],
+    "work": [
+      {
+        "company": "Alamo Drafthouse Cinema",
+        "title": "M​anager",
+        "years": "2017 - 2020",
+        "description": "Supervised other staff for following protocols regarding food rotation and cleaning stations || Ability to strongly lead a ten theater venue || Appropriately schedule breaks, theater cleans, and cut duties || Directly addressed customer inquiries and quickly resolved complaints || Practiced responsible flow of alcohol service to guests in accordance to local and state laws, including identification verification and intoxication prevention"
+      },
+      {
+        "company": "MainEvent Entertainment",
+        "title": "Server",
+        "years": "2014 - 2019",
+        "description": "Managed work assignments adhering to a strict time schedule || Created fun and memorable experience for guests || Performed minor mechanical repairs on game units || Practiced responsible alcohol service in accordance with local and state laws, including identification verification and intoxication prevention || Maintained a clean table appearance by pre-bussing, checking drink levels, and removing clutter"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "jQuery",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BagIt",
+        "category": "This project utilized: ReactJs || Express || MySQL || Sequelize || React Bootstrap || Auth0",
+        "image": "BagIt.gif",
+        "url": "https://github.com/The-CallBack-Cats/BagIt"
+      },
+      {
+        "title": "Weather App",
+        "category": "This project utilized: JavaScript || API || jQuery || Momentjs || HTML || CSS",
+        "image": "WeatherDash.png",
+        "url": "https://github.com/jordanalexis6/WeatherApp"
+      },
+      {
+        "title": "Code Quiz",
+        "category": "This project utilized: JavaScript || jQuery || HTML || CSS",
+        "image": "CodeQuiz.png",
+        "url": "https://github.com/jordanalexis6/codeQuiz"
+      },
+      {
+        "title": "Password Generator",
+        "category": "This project utilized: JavaScript || jQuery || HTML || CSS",
+        "image": "PassGen.png",
+        "url": "https://github.com/jordanalexis6/passwordGen"
+      }
+    ]
+  }
+}
