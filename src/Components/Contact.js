@@ -29,7 +29,7 @@ class Contact extends Component {
 
         <div className="row">
           <div className="eight columns">
-            <form action="" method="post" id="contactForm" name="contactForm">
+            <form action="" id="contactForm" name="contactForm">
               <fieldset>
                 <div>
                   <label htmlFor="contactName">
@@ -85,9 +85,6 @@ class Contact extends Component {
 
                 <div>
                   <button className="submit">Submit</button>
-                  <span id="image-loader">
-                    <img alt="" src="images/loader.gif" />
-                  </span>
                 </div>
               </fieldset>
             </form>
