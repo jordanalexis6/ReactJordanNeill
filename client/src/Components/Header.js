@@ -65,7 +65,9 @@ class Header extends Component {
             <h1 className="responsive-headline">{name}</h1>
             <h3>{description}.</h3>
             <hr />
-            <ul className="social-links top-social">{networks}</ul>
+            <ul className="social-links top-social" target="_blank">
+              {networks}
+            </ul>
           </div>
         </div>
 
