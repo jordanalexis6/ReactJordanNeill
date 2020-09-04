@@ -3,19 +3,6 @@ import ParticlesBg from "particles-bg";
 
 class Header extends Component {
   render() {
-    if (this.props.data) {
-      var name = this.props.data.name;
-      var description = this.props.data.description;
-      var networks = this.props.data.social.map(function (network) {
-        return (
-          <li key={network.name}>
-            <a href={network.url}>
-              <i className={network.className}></i>
-            </a>
-          </li>
-        );
-      });
-    }
     let config = {
       num: [4, 7],
       rps: 0.1,
@@ -31,7 +18,6 @@ class Header extends Component {
       // emitter: "follow",
       random: 15,
     };
-
     if (Math.random() > 0.85) {
       config = Object.assign(config, {
         onParticleUpdate: (ctx, particle) => {
@@ -48,6 +34,20 @@ class Header extends Component {
         },
       });
     }
+    if (this.props.data) {
+      var name = this.props.data.name;
+      var description = this.props.data.description;
+      var networks = this.props.data.social.map(function (network) {
+        return (
+          <li key={network.name}>
+            <a href={network.url}>
+              <i className={network.className}></i>
+            </a>
+          </li>
+        );
+      });
+    }
+
     return (
       <header id="home">
         <ParticlesBg type="custom" config={config} bg={true} />
