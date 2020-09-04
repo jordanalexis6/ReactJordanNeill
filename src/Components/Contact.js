@@ -98,7 +98,7 @@ class Contact extends Component {
 
           <aside className="four columns footer-widgets">
             <div className="widget widget_contact">
-              <img atl="" src="images/360bridge.jpg" />
+              <img alt="Jordan at 360" src="images/360bridge.jpg" />
               <h4>Address and Phone</h4>
               <p className="address">
                 {name}
@@ -107,6 +107,8 @@ class Contact extends Component {
                 {city}, {state} {zip}
                 <br />
                 <span>{phone}</span>
+                <br />
+                <span>{email}</span>
               </p>
             </div>
           </aside>
