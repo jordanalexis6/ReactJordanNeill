@@ -12,7 +12,7 @@
 
 </ul>
 
-<a href='https://jordanalexis6.github.io/' target='_blank'>Live Portfolio Link</a>
+<a href='https://reactjordanalexis6.herokuapp.com/' target='_blank'>Live Portfolio Link</a>
 
 </p>
 <h2>⚙️ List of Technology Used</h2>
