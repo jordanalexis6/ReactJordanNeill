@@ -48,7 +48,12 @@ class About extends Component {
               </div>
               <div className="columns download">
                 <p>
-                   <ReactPDF target="_blank" className="button" file={{data = resumedownload}} /> <i className="fa fa-download"></i>Download Resume
+                  <ReactPDF
+                    target="_blank"
+                    className="button"
+                    file={{ resumedownload }}
+                  />
+                  <i className="fa fa-download"></i>Download Resume
                   {/* <a href={resumeDownload} target="_blank" className="button">
                     <i className="fa fa-download"></i>Download Resume
                   </a> */}
