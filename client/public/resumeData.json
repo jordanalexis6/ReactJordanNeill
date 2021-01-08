@@ -19,11 +19,6 @@
     "resumedownload": "https://docs.google.com/document/d/1E1EVTvwdE3wkAY1r-SoHKDKKbipcuRLWKh1RhT0Z5mk/edit?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/jordan.a.neill/",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jordanalexis6/",
         "className": "fa fa-linkedin"
