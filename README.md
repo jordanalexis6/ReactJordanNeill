@@ -40,6 +40,12 @@
   </td>
 </table>
 
+<ul>
+    <li><a href='https://www.linkedin.com/in/jordanalexis6' target='_blank'>LinkedIn</a></li>
+    <li>jordan.a.neill@gmail.com</li>
+</ul>
+
+
 <h2>⚓ Minimum Requirements</h2>
 
 - Functional, deployed application
